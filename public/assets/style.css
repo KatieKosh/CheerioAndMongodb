@@ -1,0 +1,86 @@
+body{
+
+    background-image: url('../assets/little_pluses.png');
+  font-family: 'Bubbler One', sans-serif;
+ }
+
+ #wrapper{
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 5%;
+      font-family: 'Bubbler One', sans-serif;
+      float: left;
+
+
+ }
+ p {
+     margin: 0 0 10px;
+     background-color: #2F4F4F;
+     height: 100px;
+     padding-top: 25px;
+     display: block;
+     color: white;
+     /*text-align: center;*/
+        font-family: 'Bubbler One', sans-serif;
+   }
+   button {
+      color: black !important;
+       background-color: white;
+       padding: 10px;
+       border-radius: 15px;
+
+   }
+
+ #articles{
+
+       color: white;
+       text-align: center;
+       background-color: grey;
+       font-size: 18px;
+       font-family: 'Bubbler One', sans-serif;
+   }
+
+#title {
+  text-align: center;
+  /*padding-bottom: 30px;*/
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 80px;
+
+}
+
+h4 {
+text-align: center;
+  font-family: 'Bubbler One', sans-serif;
+  padding-bottom: 80px;
+
+}
+
+ #notes{
+    width:30%;
+    float:right;
+    margin-top: 300px;
+ }
+
+
+ textarea, input{
+    display:block;
+    width:100%;
+    background-color: #F6F6EF;
+
+
+ }
+ input{
+    height:36px;
+    font-size: 24px;
+ }
+ textarea{
+    height:200px;
+    font-size: 18px;
+ }
+ /*.heading {
+      font-style: Verdana;
+      font-weight: 600;
+}*/
+/*.headline {
+     font-weight: 700;
+}*/
